@@ -1,5 +1,0 @@
-Analyzing cut site: {cutsite_seq} 
-Total cut sites found: {len(get_cutsites)} 
-Cut site pairs 80-120 kbp apart: {len(get_cutsites_part)} 
-First 5 pairs: 
-0. 17683 - 1010001. 17683 - 1041862. 17683 - 1045603. 17683 - 1107294. 17683 - 115379
