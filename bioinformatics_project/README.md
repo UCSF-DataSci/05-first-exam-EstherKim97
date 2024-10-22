@@ -1,0 +1,1 @@
+The main directory bioinformatics_project was created with subdirectories of data, scripts, and results. In data directory, fasta file was made, Python files for scripts directory, txt file in results directory.
